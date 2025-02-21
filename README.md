@@ -20,8 +20,7 @@ Maui is a modern e-commerce website built using React and Tailwind CSS. It showc
 ## 📦 Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/maui.git
-   cd maui
+   git clone https://github.com/yousef-s-mousa/E-Commerce
    ```
 2. Install dependencies:
    ```bash
