@@ -2,7 +2,7 @@
 
 ## 🛍️ Overview
 Maui is a modern e-commerce website built using React and Tailwind CSS. It showcases seamless API integration, dynamic UI components, and a responsive design to provide an engaging shopping experience.
-
+##for live view https://yousef-s-mousa.github.io/E-Commerce/
 ## 🚀 Features
 - 🏪 Fully responsive and user-friendly UI
 - 🔍 Search and filter products easily
